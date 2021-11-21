@@ -2,7 +2,7 @@
 
 Hi 👋
 
-We are [InsaLan](https://insalan.fr), the largest student-led LAN tournament even in France.
+We are [InsaLan](https://insalan.fr), the largest student-led LAN tournament event in France.
 This organisation hosts the various tools and technical content we maintain and use.
 
 🌐 Website: [insalan.fr](https://insalan.fr/)
